@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Inspinia - Meteor version 2015
 version: 2.3
 
@@ -12,3 +13,6 @@ meteor
 
 This will grab the necessary packages, bundle all the css and js and start your application
 Go to http://localhost:3000 to see live version
+=======
+# newsLetter
+>>>>>>> 827c9f5881dbfe5ae7e10c426ef2e335c13f11d7
