@@ -1,0 +1,4 @@
+Template.pageOne.rendered = function(){
+
+
+};

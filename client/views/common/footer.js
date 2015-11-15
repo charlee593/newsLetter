@@ -1,0 +1,2 @@
+Template.footer.rendered = function () {
+};
