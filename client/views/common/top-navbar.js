@@ -11,6 +11,12 @@ Template.topNavbar.events({
 
         // Toggle special class
         $("body").toggleClass("mini-navbar");
+    },
+
+    'click #logOut': function(){
+    	event.preventDefault();
+
+    	Meteor.logout();
     }
 
 });
